@@ -144,4 +144,4 @@ const body = document.getElementsByTagName("body")[0];
 body.appendChild(createTable(size,memList))
 setTimeout(starting,10000);
 
-console.log("end");
+console.log("Pug end!Woof!");
